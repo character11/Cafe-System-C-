@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Cafe System\Cafe System\bin\Debug\Cafe System.exe.config
+C:\Users\HP\source\repos\Cafe System\Cafe System\bin\Debug\Cafe System.exe
+C:\Users\HP\source\repos\Cafe System\Cafe System\bin\Debug\Cafe System.pdb
+C:\Users\HP\source\repos\Cafe System\Cafe System\obj\Debug\Cafe System.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Cafe System\Cafe System\obj\Debug\Cafe_System.Form1.resources
+C:\Users\HP\source\repos\Cafe System\Cafe System\obj\Debug\Cafe_System.Properties.Resources.resources
+C:\Users\HP\source\repos\Cafe System\Cafe System\obj\Debug\Cafe System.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Cafe System\Cafe System\obj\Debug\Cafe System.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Cafe System\Cafe System\obj\Debug\Cafe System.exe
+C:\Users\HP\source\repos\Cafe System\Cafe System\obj\Debug\Cafe System.pdb
